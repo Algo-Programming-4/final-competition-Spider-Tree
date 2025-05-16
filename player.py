@@ -31,3 +31,13 @@ class Player:
         Student stub: sort data and return new list.
         """
         pass
+    def joliQueue_challenge(tasks):
+        pass
+    # Most people know farmer Joliphant is horrible at time managment.
+# To help dear old Joliphant and his wife you will have to manage farmer Joliphant's schedule for a week.
+# Each day you will receive a tuple containing 5 tasks.
+# Each task will have an energy property that is required to perform the task. Your energy limit is 100 per day.
+# Each task will have a success property. YOUR 401K will be in shambles if you do not meet the success quota of 1000 at the end of the week.
+# Task is a class with methods .getEnergy() and .getSuccess().
+# You will return a priorety queue with a method .dequeue() which pops the most valuble task and returns that task.
+# Good luck! It's real tricky to determine a good balance between energy and success. "Just like my kids." -- Gandhi
